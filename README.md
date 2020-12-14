@@ -4,7 +4,7 @@ The objective of this project is to use a Naive-Bayes Classifier to reduce the a
 
 The <a href="https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/">Naive-Bayes Classifier</a> works based on the Bayes' Theorem:
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=P(A|B)=\frac&space;{(P(B|A)&space;\cdot&space;P(A)}{P(B)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?P(A|B)=\frac&space;{(P(B|A)&space;\cdot&space;P(A)}{P(B)}" title="P(A|B)=\frac {(P(B|A) \cdot P(A)}{P(B)}" /></a>
+<img src="https://latex.codecogs.com/gif.latex?P(A|B)=\frac&space;{(P(B|A)&space;\cdot&space;P(A)}{P(B)}" title="P(A|B)=\frac {(P(B|A) \cdot P(A)}{P(B)}" /></a>
 
 In order to be able to run the project a Twitter Developer Account had to be created. The account provides the keys needed to get tweets through *tweepy*. If you want to run the project locally, make sure to create a Developer account and use your own keys. 
 
