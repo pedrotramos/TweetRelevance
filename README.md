@@ -6,6 +6,6 @@ The <a href="https://monkeylearn.com/blog/practical-explanation-naive-bayes-clas
 
 <img src="https://latex.codecogs.com/gif.latex?P(A|B)=\frac&space;{P(B|A)&space;\cdot&space;P(A)}{P(B)}" title="P(A|B)=\frac {(P(B|A) \cdot P(A)}{P(B)}" /></a>
 
-In order to run the project a Twitter Developer Account had to be created. The account provides the keys needed to get tweets through *tweepy*. If you want to run the project locally, make sure to create a Developer Account and use your own keys. 
+In order to run the project a Twitter Developer Account had to be created. The account provides the keys needed to get tweets through <a href="http://docs.tweepy.org/en/latest/"><em>tweepy</em></a>. If you want to run the project locally, make sure to create a Developer Account and use your own keys. 
 
 To know more details about the project refer to the RelevanceClassifier notebook.
