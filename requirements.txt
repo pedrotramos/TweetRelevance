@@ -1,0 +1,7 @@
+pandas
+tweepy
+pandas-profiling
+python-dotenv
+scikit-learn
+scipy
+emoji
