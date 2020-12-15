@@ -8,4 +8,4 @@ The <a href="https://monkeylearn.com/blog/practical-explanation-naive-bayes-clas
 
 In order to run the project a Twitter Developer Account had to be created. The account provides the keys needed to get tweets through <a href="http://docs.tweepy.org/en/latest/"><em>tweepy</em></a>. If you want to run the project locally, make sure to create a Developer Account and use your own keys. 
 
-To know more details about the project refer to the RelevanceClassifier notebook.
+To know more details about the project refer to the RelevanceClassifier notebook. In order to run the project make sure to install all the libraries necessary with ```pip install -r requirements.txt```
